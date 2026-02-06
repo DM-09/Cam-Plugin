@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Cam Plugin</string>
-    <string name="on">셔터음 켜짐(On)</string>
-    <string name="off">셔터음 꺼짐(Off)</string>
-    <string name="un">지원하지 않음(Unsupport)</string>
+    <string name="on">Shutter Sound on</string>
+    <string name="off">Shutter Sound off</string>
+    <string name="un">Not supported</string>
+    <string name="per">App permission is required.</string>
 </resources>

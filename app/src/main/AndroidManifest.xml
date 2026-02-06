@@ -15,10 +15,10 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+            <meta-data android:name="android.max_aspect" android:value="2.4" />
         </activity>
-    </application>
 
+    </application>
 </manifest>
